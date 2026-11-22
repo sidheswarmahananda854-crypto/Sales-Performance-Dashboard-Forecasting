@@ -1,4 +1,4 @@
-# Sales Dashboard & Forecasting (synthetic data)
+# Sales Dashboard & Forecasting 
 
 End-to-end regional sales analysis: SQL KPIs, Python time-series forecast, Excel dashboard.
 
